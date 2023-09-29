@@ -11,5 +11,6 @@ https://github.com/Prsd17/Azure-Data-Engineering/assets/93597510/9d8070df-7f1c-4
 
 
 ## Dashboard
-https://github.com/Prsd17/Azure-Data-Engineering/assets/93597510/2b3c98a8-9105-48ad-8ee9-2cdb384301b4
+![Screenshot 2023-09-29 132539](https://github.com/Prsd17/Azure-Data-Engineering/assets/93597510/40695cf8-7da9-4938-a36c-0757a14c0de9)
+
 
